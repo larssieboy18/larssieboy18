@@ -1,4 +1,7 @@
 ### Hi there 👋
+![Lars' GitHub stats](https://github-readme-stats.vercel.app/api?username=larssieboy18&show_icons=true)
+
+
 
 <!--
 **larssieboy18/larssieboy18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
