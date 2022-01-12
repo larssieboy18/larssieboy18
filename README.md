@@ -1,5 +1,7 @@
 
-![Lars' GitHub stats](https://github-readme-stats.vercel.app/api?username=larssieboy18&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larssieboy18&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Lars' GitHub stats](https://github-readme-stats.vercel.app/api?username=larssieboy18&show_icons=true&theme=dark) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=larssieboy18&theme=dark)](https://git.io/streak-stats)
+
 
 
 
@@ -16,4 +18,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larssieboy18&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 -->
