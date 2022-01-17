@@ -3,7 +3,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=larssieboy18&theme=dark)](https://git.io/streak-stats)
 
-
+![Discord profile](https://discord.c99.nl/widget/theme-2/119473151913623552.png)
 
 
 <!--
