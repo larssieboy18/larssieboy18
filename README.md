@@ -1,8 +1,6 @@
 
 ![Lars' GitHub stats](https://github-readme-stats.vercel.app/api?username=larssieboy18&show_icons=true&theme=dark) 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=larssieboy18&theme=dark)](https://git.io/streak-stats)
-
 ![Discord profile](https://discord.c99.nl/widget/theme-2/119473151913623552.png)
 
 
@@ -22,5 +20,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larssieboy18&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=larssieboy18&theme=dark)](https://git.io/streak-stats)
 
 -->
